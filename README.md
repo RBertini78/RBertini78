@@ -27,8 +27,8 @@ Com um sólido background em **Análise de Sistemas** e um profundo interesse em
 * **Soft Skills:** Adaptabilidade, trabalho em equipe, empatia, comunicação eficaz, pensamento crítico
 ### Projetos
 <!---
-* **[Nome do Projeto 1]:** [Descrição concisa do projeto, destacando o que você aprendeu e as tecnologias utilizadas]
-    * **Link para o repositório:** [Link para o repositório no GitHub]
+* **[Imersão Alura]:** [Projeto realizado durante imersão dev da Alura com Google Gemini feito em HTML com CSS e JavaScript]
+    * **Link para o repositório:** https://github.com/RBertini78/ImersaoAlura
 * **[Nome do Projeto 2]:** [Descrição concisa do projeto, destacando o que você aprendeu e as tecnologias utilizadas]
     * **Link para o repositório:** [Link para o repositório no GitHub]
 --->
