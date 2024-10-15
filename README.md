@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Sobre Mim
 
-Sou um **Técnico/Analista de sistemas** em constante evolução, com **46** anos de experiência em **Eletrônica e Automação**. Atualmente, estou imerso no mundo da programação, buscando novas oportunidades como **Desenvolvedor C#**.
+Sou um **Técnico/Analista de sistemas** em constante evolução, com **46** anos e experiência em **Eletrônica e Automação**. Atualmente, estou imerso no mundo da programação, buscando novas oportunidades como **Desenvolvedor C#**.
 
 Com um sólido background em **Análise de Sistemas** e um profundo interesse em **IA, Angular, Golang, React, JavaScript**, estou entusiasmado em aplicar minhas habilidades para criar soluções inovadoras e eficientes.
 
