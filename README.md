@@ -40,6 +40,6 @@ Com um sólido background em **Análise de Sistemas** e um profundo interesse em
 
 ### Contato
 
-Sinta-se à vontade para entrar em contato comigo através do meu e-mail: r.bertini@gmail.com / ronaldobertini@hotmail.com ou do meu LinkedIn: (https://www.linkedin.com/in/ronaldo-bertini-214a37127/)
+Sinta-se à vontade para entrar em contato comigo através do meu e-mail: r.bertini@gmail.com / ronaldobertini@hotmail.com ou do meu LinkedIn: (https://www.linkedin.com/in/ronaldobertini)
 
 **Vamos construir o futuro juntos!**
