@@ -22,7 +22,7 @@ Com um sólido background em **Análise de Sistemas** e um profundo interesse em
 
 * **Linguagens:** C#, C, PHP, Java, Phyton
 * **Frameworks e Ferramentas:** .NET, Angular
-* **Bancos de dados:** SQL Server, MySQL, Firebird
+* **Bancos de dados:** SQL Server, MySQL, Firebird, MongoDB
 * **Metodologias:** Agile, Scrum
 * **Soft Skills:** Adaptabilidade, trabalho em equipe, empatia, comunicação eficaz, pensamento crítico
 ### Projetos
